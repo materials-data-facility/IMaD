@@ -7,4 +7,5 @@ table | part | three
 --- | --- | ---
 lets | see | if
 this | will | work!
-### THE TABLE WORKS NOW
+### ~~THE TABLE WORKS NOW~~
+### the table works just fine on the preview on github but on the actual website it does NOT. 
