@@ -9,3 +9,4 @@ lets | see | if
 this | will | work!
 ### ~~THE TABLE WORKS NOW~~
 ### the table works just fine on the preview on github but on the actual website it does NOT. 
+i will try to work with this tomorrow and try to get the table to work correctly if i can
