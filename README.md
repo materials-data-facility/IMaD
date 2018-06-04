@@ -7,3 +7,4 @@ table | part | three
 --- | --- | ---
 lets | see | if
 this | will | work!
+THE TABLE WORKS NOW
