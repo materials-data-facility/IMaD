@@ -11,12 +11,5 @@ this | will | work!
 ### the table works just fine on the preview on github but on the actual website it does NOT. 
 i will try to work with this tomorrow and try to get the table to work correctly if i can
 >lets see if blockquotes will work on this THEY DO! nice
----
-information goes here
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
 
+is this gonna stay in the blockquote on the website lets see
