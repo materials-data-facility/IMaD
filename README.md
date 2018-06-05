@@ -12,4 +12,4 @@ this | will | work!
 i will try to work with this tomorrow and try to get the table to work correctly if i can
 >lets see if blockquotes will work on this THEY DO! nice
 
-is this gonna stay in the blockquote on the website lets see
+is this gonna stay in the blockquote on the website lets see. update : they dont
