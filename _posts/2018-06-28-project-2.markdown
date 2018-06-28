@@ -1,0 +1,12 @@
+---
+title: Materials Data Facility
+subtitle: 
+layout: default
+modal-id: 2
+date: 2018-06-28
+img: new-mdf-thumbnail.png
+thumbnail: new-mdf-thumbnail.png
+alt: image-alt
+description: <p>The <a href="https://materialsdatafacility.org/">Materials Data Facility</a> (MDF) is set of data services built specifically to support materials science researchers. MDF consists of two synergistic services, data publication and data discovery (in development). The production-ready data publication service offers a scalable repository where materials scientists can publish, preserve, and share research data. The repository provides a focal point for the materials community, enabling publication and discovery of materials data of all sizes.</p>  <a class="btn btn-primary" href="https://materialsdatafacility.org/"> Visit The Materials Data Facility</a>
+
+---

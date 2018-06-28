@@ -1,0 +1,16 @@
+---
+title: CHiMaD
+subtitle: 
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: new-chimad-thumbnail.png
+thumbnail: new-chimad-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: <a href="http://chimad.northwestern.edu/">CHiMaD</a>, abbreviated from the Center for Hierarchical Materials Design, is a center sponsored by the National Institute of Standards and Technology (NIST) and is focused on the research of advanced materials, more specifically in developing next-generation computational tools, databases, amd experimental techniques in order to encourage and allow the design of new materials and their ultimate integration into the industry. 
+
+
+---
