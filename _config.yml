@@ -1,2 +1,77 @@
-theme: jekyll-theme-cayman
+url: https://y7kim.github.io
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: Integrative Materials Design 
+email: your-email@domain.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+
+# Team names, titles and social links
+people:
+- name: Midwest Big Data Hub
+  pic: 8
+  position: 
+  social:
+    - title: twitter
+      url: https://twitter.com/MWBigDataHub
+    
+    - title: laptop
+      url: http://midwestbigdatahub.org/
+
+- name: National Science Foundation
+  pic: 5
+  position: 
+  social:
+    - title: twitter
+      url: https://twitter.com/NSF
+    - title: facebook
+      url: https://www.facebook.com/US.NSF/
+    - title: laptop
+      url: https://www.nsf.gov/
+
+# - name: NIST  
+#   pic: 6
+#   position: 
+#   social:
+#     - title: twitter
+#       url: # https://twitter.com/usnistgov
+#     - title: facebook
+#       url: # https://www.facebook.com/usnistgov/
+#     - title: laptop
+#       url: # https://www.nist.gov/
+
+# - name: Department of Energy
+#   pic: 7
+#   position: 
+#   social:
+#     - title: twitter 
+#       url: # https://twitter.com/ENERGY
+#     - title: facebook
+#       url: # https://www.facebook.com/energygov/
+#     - title: laptop
+#       url: # https://www.energy.gov/
+  
+
+
+# # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket 
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
+
+# # Postal address (add as many lines as necessary)
+# address:
+#   - line: 3481 Melrose Place
+#   - line: Beverly Hills, CA 90210
+
+# Build settings
 markdown: kramdown
+permalink: pretty
