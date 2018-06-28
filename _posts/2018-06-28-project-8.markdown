@@ -7,9 +7,6 @@ date: 2014-07-15
 img: new-nist-thumbnail.png
 thumbnail: new-nist-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: The National Institute of Standards and Technology, <a href=“https://materials.registry.nist.gov/”>(NIST)</a>, has within it the Materials Resource Registry, which is part of the Materials Genome Initiative. The resource allows users to register various materials resources, making the relationship between resources already existing and the end users. Its main function is to let users use the available information for research within the community. 
+description: <p> The National Institute of Standards and Technology, <a href=“https://materials.registry.nist.gov/”>(NIST)</a>, has within it the Materials Resource Registry, which is part of the Materials Genome Initiative. The resource allows users to register various materials resources, making the relationship between resources already existing and the end users. Its main function is to let users use the available information for research within the community. </p> <a class="btn btn-primary" href="https://materials.registry.nist.gov/"> Visit NIST</a>
 
 ---

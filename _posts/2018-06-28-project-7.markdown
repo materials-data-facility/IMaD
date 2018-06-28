@@ -7,9 +7,6 @@ date: 2014-07-14
 img: uwisconsin-thumbnail.png
 thumbnail: uwisconsin-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: The Computational Materials Group <a href="http://http://matmodel.engr.wisc.edu">(CMG)</a> at the University of Wisconsin-Madison uses atomic scale modeling to understand and design new materials. They employ highly accurate techniques to study electronic structure and energetics of smaller systems, along with interatomic potential modeling on massively parallel computers to study up to hundreds of millions of atoms. 
+description: <p> The Computational Materials Group <a href="http://http://matmodel.engr.wisc.edu">(CMG)</a> at the University of Wisconsin-Madison uses atomic scale modeling to understand and design new materials. They employ highly accurate techniques to study electronic structure and energetics of smaller systems, along with interatomic potential modeling on massively parallel computers to study up to hundreds of millions of atoms. </p> <a class="btn btn-primary" href="http://http://matmodel.engr.wisc.edu"> Visit the CMG</a>
 
 ---

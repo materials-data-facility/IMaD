@@ -7,9 +7,6 @@ date: 2014-07-16
 img: new-prisms-thumbnail.png
 thumbnail: new-prisms-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: <p><a href=“http://www.prisms-center.org/#/home/”>PRISMS</a> stands for PRedictive Integrated Structural Materials Science.The goal of the PRISMS Center is to establish a unique platform that will enable accelerated predictive materials science for structural metals. The <a href=“https://materialscommons.org/mcapp/#/data/home/top/”>Materials Commons</a> is a platform for organizing, collaborating, publishing and sharing research data.</p> <a class="btn btn-primary" href="http://www.prisms-center.org/#/home/"> Visit PRISMS</a>
 
 ---
