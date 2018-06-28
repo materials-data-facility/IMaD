@@ -1,15 +1,15 @@
 ---
-title: T2C2
+title: Computational Materials Group
 subtitle: 
 layout: default
 modal-id: 7
 date: 2014-07-14
-img: uiuc-csl-thumbnail.png
-thumbnail: uiuc-csl-thumbnail.png
+img: uwisconsin-thumbnail.png
+thumbnail: uwisconsin-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: <a href=“http://t2c2.csl.illinois.edu”>T2C2</a>, shortened from the Timely and Trustworthy Curating and Coordinating Data Framework is a project that aims to dramatically reduce the materials-to-device process, which currently can last up to 20 years. One of T2C2's goals is to develop a new framework and system that focuses on curating, correlating and coordinating materials-to-devices data in real time before fully archiving and publishing the data for widespread access. This program is through the Coordinated Science Lab at the Univerisity of Illinois. 
+description: The Computational Materials Group <a href="http://http://matmodel.engr.wisc.edu">(CMG)</a> at the University of Wisconsin-Madison uses atomic scale modeling to understand and design new materials. They employ highly accurate techniques to study electronic structure and energetics of smaller systems, along with interatomic potential modeling on massively parallel computers to study up to hundreds of millions of atoms. 
 
 ---

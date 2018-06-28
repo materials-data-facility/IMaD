@@ -1,15 +1,15 @@
 ---
-title: Computational Materials Group
+title: Materials Resource Registry
 subtitle: 
 layout: default
 modal-id: 8
-date: 2014-07-14
-img: uwisconsin-thumbnail.png
-thumbnail: uwisconsin-thumbnail.png
+date: 2014-07-15
+img: new-nist-thumbnail.png
+thumbnail: new-nist-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: The Computational Materials Group <a href="http://http://matmodel.engr.wisc.edu">(CMG)</a> at the University of Wisconsin-Madison uses atomic scale modeling to understand and design new materials. They employ highly accurate techniques to study electronic structure and energetics of smaller systems, along with interatomic potential modeling on massively parallel computers to study up to hundreds of millions of atoms. 
+description: The National Institute of Standards and Technology, <a href=“https://materials.registry.nist.gov/”>(NIST)</a>, has within it the Materials Resource Registry, which is part of the Materials Genome Initiative. The resource allows users to register various materials resources, making the relationship between resources already existing and the end users. Its main function is to let users use the available information for research within the community. 
 
 ---

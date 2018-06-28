@@ -1,15 +1,15 @@
 ---
-title: Citrine Informatics
+title: T2C2
 subtitle: 
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: citrine-thumbnail.png
-thumbnail: citrine-thumbnail.png
+date: 2014-07-14
+img: uiuc-csl-thumbnail.png
+thumbnail: uiuc-csl-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: <a href=“www.citrine.io”>Citrine</a> Informatics is a next-generation platform built from the ground up for materials data. The platform harnesses the power of AI to bring new materials to market faster, and capture materials-enabled product value.
+description: <a href=“http://t2c2.csl.illinois.edu”>T2C2</a>, shortened from the Timely and Trustworthy Curating and Coordinating Data Framework is a project that aims to dramatically reduce the materials-to-device process, which currently can last up to 20 years. One of T2C2's goals is to develop a new framework and system that focuses on curating, correlating and coordinating materials-to-devices data in real time before fully archiving and publishing the data for widespread access. This program is through the Coordinated Science Lab at the Univerisity of Illinois. 
 
 ---
