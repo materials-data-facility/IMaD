@@ -1,4 +1,4 @@
-Integrated Materials Design (IMaD) Webpage
+Integrative Materials Design (IMaD) Webpage
 ====================
 
 Source code for the IMaD webpage (https://materials-data-facility.github.io/integrative-materials/).
