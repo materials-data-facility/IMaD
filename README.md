@@ -1,30 +1,6 @@
-Agency Jekyll theme
+Integrated Materials Design (IMaD) Webpage
 ====================
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+Source code for the IMaD webpage (https://materials-data-facility.github.io/integrative-materials/).
 
-# How to use
-
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+Based on the [Agency Jekyll theme](https://github.com/y7kim/agency-jekyll-theme), which is based on the [Agency bootstrap theme](https://startbootstrap.com/template-overviews/agency/).
